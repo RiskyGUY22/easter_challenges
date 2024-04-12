@@ -10,3 +10,5 @@
 	$ make
 
 * Output files will be in out/
+* [Prebuilt binaries](https://github.com/RiskyGUY22/easter_challenges/releases) compiled for Linux
+* NOT cross compiled for Windows so it is not compatible with windows
